@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi 👋, I'm [Aman Kumar Mandal](https://github.com/AmanMandal7)<img hight="35" width="80" alt="GIF" align="center" src="https://media.giphy.com/media/hT70yT2hFcODnK3RWD/giphy.gif">
 
 
-<h2 align="center">Code all the cool stuff...</h2>
+<h2 align="center">I code all the cool stuff...</h2>
 
 <div align="center">
 <img hight="300" width="600" alt="GIF" align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-guy.gif">
@@ -77,9 +77,25 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanmandal7" alt="amanmandal7" /></a> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanmandal7&show_icons=true&locale=en" alt="amanmandal7" /></p>
+## GitHub Stats 📊
+<div>
+<img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=amanmandal7&theme=shades-of-purple&custom_title=GitHub+Stats&hide_border=true"/>
+<img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmandal7&theme=shades-of-purple&hide_border=true"/>
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanmandal7&theme=shades-of-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide=jupyter%20notebook" />
+</p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanmandal7&" alt="amanmandal7" /></p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+## GitHub Trophies 🏆
+![](https://github-profile-trophy.vercel.app/?username=amanmandal7&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<!-- <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=amanmandal7&theme=react&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /> -->
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
