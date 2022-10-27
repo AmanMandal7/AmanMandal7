@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/amamandal7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amamandal7" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/aman-kumar-mandal-236bb7246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-kumar-mandal-236bb7246/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100024042548964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024042548964" height="30" width="40" /></a>
-<a href="https://instagram.com/@theone_009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theone_009" height="30" width="40" /></a>
+<a href="https://instagram.com/amanmandal_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@theone_009" height="30" width="40" /></a>
 <a href="https://leetcode.com/amanmandal7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/amanmandal7/" height="30" width="40" /></a>
 </p>
 
