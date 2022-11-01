@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm [Aman Kumar Mandal](https://github.com/AmanMandal7)<img hight="35" width="80" alt="GIF" align="center" src="https://media.giphy.com/media/hT70yT2hFcODnK3RWD/giphy.gif">
+# Hi, I'm [Aman Kumar Mandal](https://github.com/AmanMandal7)<img hight="35" width="80" alt="GIF" align="center" src="https://media.giphy.com/media/hT70yT2hFcODnK3RWD/giphy.gif">
 
 
 <h2 align="center">I code all the cool stuff...</h2>
