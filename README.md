@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=amanmandal7&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<!-- ![](https://komarev.com/ghpvc/?username=piyush-eon) -->
 
 <!-- <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=amanmandal7&theme=react&custom_title=My%20Contributions%20Graph%20is%20like%20a%20Rollercoster%20Ride&bg_color=3333cc&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" /> -->
 
